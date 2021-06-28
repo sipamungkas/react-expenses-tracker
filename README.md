@@ -47,4 +47,4 @@ yarn start
 
 ## Screenshot
 
-![Expenses Tracker Preview](docs/expenses-tracker.png "Logo Title Text 1")
+![Expenses Tracker Preview](docs/expenses-tracker.png "Expenses Tracker Preview")
